@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aamir Siddique</h1>
 <h3 align="center">BSCS student at Benazir Bhutto Shaheed University Lyari with a passion for software engineering, artificial intelligence, and web development. Excited about leveraging cutting-edge technologies to build innovative solutions and contribute to the field of computer science. Constantly exploring new ideas and striving to enhance my skills through hands-on projects and collaboration with like-minded developers.</h3>
-<img align="right" with="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="coding">
+<img align="right" with="300" height="300" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamirsiddique09&label=Profile%20views&color=0e75b6&style=flat" alt="aamirsiddique09" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
