@@ -1,4 +1,4 @@
-![logo](https://github.com/Aamirsiddique09/Aamirsiddique09/blob/main/Aamirsiddique.png)
+<img  height="450px"  width="100%" src="https://github.com/Aamirsiddique09/Aamirsiddique09/blob/main/Aamirsiddique.png" alt="coding">
 <h1 align="center">Hi 👋, I'm Aamir Siddique</h1>
 <h3 align="center">BSCS student at Benazir Bhutto Shaheed University Lyari with a passion for software engineering, artificial intelligence, and web development. Excited about leveraging cutting-edge technologies to build innovative solutions and contribute to the field of computer science. Constantly exploring new ideas and striving to enhance my skills through hands-on projects and collaboration with like-minded developers.</h3>
 <img align="right" with="300" height="300" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="coding">
